@@ -1,0 +1,7 @@
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercicio pratico\S9E2\ContractSystem\ContractSystemUI\bin\Debug\ContractSystemUI.exe.config
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercicio pratico\S9E2\ContractSystem\ContractSystemUI\bin\Debug\ContractSystemUI.exe
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercicio pratico\S9E2\ContractSystem\ContractSystemUI\bin\Debug\ContractSystemUI.pdb
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercicio pratico\S9E2\ContractSystem\ContractSystemUI\obj\Debug\ContractSystemUI.csprojAssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercicio pratico\S9E2\ContractSystem\ContractSystemUI\obj\Debug\ContractSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercicio pratico\S9E2\ContractSystem\ContractSystemUI\obj\Debug\ContractSystemUI.exe
+C:\Users\thiag\OneDrive\Documentos\Termomecänica\Curso CShap POO\Exercicio pratico\S9E2\ContractSystem\ContractSystemUI\obj\Debug\ContractSystemUI.pdb
